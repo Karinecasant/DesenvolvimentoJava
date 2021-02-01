@@ -31,5 +31,3 @@ public class Exercicio1_Array {
 		
 	 
 	}
-
-
